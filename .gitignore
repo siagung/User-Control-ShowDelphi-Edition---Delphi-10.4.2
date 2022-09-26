@@ -1,0 +1,8 @@
+__history
+__recovery
+*.dcu
+*.cfg
+*.dof
+*.local
+/Lib/Delphi
+/*.patch
